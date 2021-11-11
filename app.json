@@ -1,13 +1,3 @@
 {
-  "name": "VidClear",
-  "description": "VidClear",
-  "keywords": [
-    "Video",
-    "Download"
-  ],
-  "repository": "https://github.com/XI11A/vidclear",
-  "buildpacks": [
-    {
-      "image": "heroku/nodejs"
-    }
-  }
+  "image": "heroku/nodejs"
+}
