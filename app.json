@@ -6,4 +6,8 @@
     "Download"
   ],
   "repository": "https://github.com/XI11A/vidclear",
+  "buildpacks": [
+    {
+      "image": "heroku/nodejs"
+    }
   }
